@@ -128,9 +128,9 @@ input{
 
     padding:10px;
 
-    position:absolute;
+    margin-top:40px;
 
-    bottom:0;
+
 
 }
 
@@ -402,17 +402,7 @@ button:active{
 
 }
 
-@media screen and (max-width:340px){
 
-    .keypad{
-
-        position:static;
-
-        margin-top:40px;
-
-    }
-
-}
 
 @media screen and (min-width:400px){
 
@@ -448,12 +438,6 @@ button:active{
 
     }
 
-    .keypad{
-
-        position:static;
-
-        margin-top:40px;
-
-    }
+   
 
 }
